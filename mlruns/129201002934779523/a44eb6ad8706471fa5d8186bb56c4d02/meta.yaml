@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129201002934779523/a44eb6ad8706471fa5d8186bb56c4d02/artifacts
+end_time: 1716716346876
+entry_point_name: ''
+experiment_id: '129201002934779523'
+lifecycle_stage: active
+run_id: a44eb6ad8706471fa5d8186bb56c4d02
+run_name: painted-hen-56
+run_uuid: a44eb6ad8706471fa5d8186bb56c4d02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716710344440
+status: 3
+tags: []
+user_id: simon

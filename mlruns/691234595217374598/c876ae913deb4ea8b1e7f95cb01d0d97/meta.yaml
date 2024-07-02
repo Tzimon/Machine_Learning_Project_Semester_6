@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/691234595217374598/c876ae913deb4ea8b1e7f95cb01d0d97/artifacts
+end_time: 1716760985252
+entry_point_name: ''
+experiment_id: '691234595217374598'
+lifecycle_stage: active
+run_id: c876ae913deb4ea8b1e7f95cb01d0d97
+run_name: resilient-ape-964
+run_uuid: c876ae913deb4ea8b1e7f95cb01d0d97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716760915574
+status: 3
+tags: []
+user_id: simon

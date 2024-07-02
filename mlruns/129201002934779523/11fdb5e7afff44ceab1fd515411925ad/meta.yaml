@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129201002934779523/11fdb5e7afff44ceab1fd515411925ad/artifacts
+end_time: 1716736845999
+entry_point_name: ''
+experiment_id: '129201002934779523'
+lifecycle_stage: active
+run_id: 11fdb5e7afff44ceab1fd515411925ad
+run_name: agreeable-wolf-56
+run_uuid: 11fdb5e7afff44ceab1fd515411925ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716736763273
+status: 3
+tags: []
+user_id: simon

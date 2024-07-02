@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/309058386637993608/d68cef690a034edaa1691e75da559d8c/artifacts
+end_time: 1716640847787
+entry_point_name: ''
+experiment_id: '309058386637993608'
+lifecycle_stage: active
+run_id: d68cef690a034edaa1691e75da559d8c
+run_name: silent-carp-760
+run_uuid: d68cef690a034edaa1691e75da559d8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716640814234
+status: 3
+tags: []
+user_id: simon

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d4de78de7f95488091e2dfba244545a5/artifacts
+end_time: 1716630159319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4de78de7f95488091e2dfba244545a5
+run_name: fun-bug-512
+run_uuid: d4de78de7f95488091e2dfba244545a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716630072957
+status: 3
+tags: []
+user_id: simon

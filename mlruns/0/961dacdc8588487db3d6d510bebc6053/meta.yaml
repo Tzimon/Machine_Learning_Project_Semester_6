@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/961dacdc8588487db3d6d510bebc6053/artifacts
+end_time: 1716630499856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 961dacdc8588487db3d6d510bebc6053
+run_name: suave-stoat-93
+run_uuid: 961dacdc8588487db3d6d510bebc6053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716630362696
+status: 3
+tags: []
+user_id: simon

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/895750199437950388/89ff11feef444246b5dbb8f53a066ebc/artifacts
+end_time: 1716641310655
+entry_point_name: ''
+experiment_id: '895750199437950388'
+lifecycle_stage: active
+run_id: 89ff11feef444246b5dbb8f53a066ebc
+run_name: gentle-wolf-886
+run_uuid: 89ff11feef444246b5dbb8f53a066ebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716641282846
+status: 3
+tags: []
+user_id: simon

@@ -1,0 +1,215 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{AirPollutionForecasting}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Lstm multivariate sample dataset for architecture design and orchestration}
+      \field{langid}{english}
+      \field{title}{Air {{Pollution Forecasting}} - {{LSTM Multivariate}}}
+      \field{urlday}{28}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\simon\Zotero\storage\ETYP6GDT\lstm-datasets-multivariate-univariate.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.kaggle.com/datasets/rupakroy/lstm-datasets-multivariate-univariate
+      \endverb
+      \verb{url}
+      \verb https://www.kaggle.com/datasets/rupakroy/lstm-datasets-multivariate-univariate
+      \endverb
+    \endentry
+    \entry{brownleeMultivariateTimeSeries2017}{online}{}
+      \name{author}{1}{}{%
+        {{hash=915af163e2107106fced5dd3164d9a8e}{%
+           family={Brownlee},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {MachineLearningMastery.com}%
+      }
+      \strng{namehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{fullhash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{bibnamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authorbibnamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authornamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authorfullhash}{915af163e2107106fced5dd3164d9a8e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Neural networks like Long Short-Term Memory (LSTM) recurrent neural networks are able to almost seamlessly model problems with multiple input variables. This is a great benefit in time series forecasting, where classical linear methods can be difficult to adapt to multivariate or multiple input forecasting problems. In this tutorial, you will discover how you can […]}
+      \field{day}{13}
+      \field{hour}{19}
+      \field{langid}{american}
+      \field{minute}{0}
+      \field{month}{8}
+      \field{second}{38}
+      \field{timezone}{Z}
+      \field{title}{Multivariate {{Time Series Forecasting}} with {{LSTMs}} in {{Keras}}}
+      \field{urlday}{4}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+      \endverb
+      \verb{url}
+      \verb https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+      \endverb
+    \endentry
+    \entry{bundesumweltministeriumsFeinstaub}{online}{}
+      \name{author}{1}{}{%
+        {{hash=588b5ddb85f96def322bde04e9dc8598}{%
+           family={Bundesumweltministeriums},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz}%
+      }
+      \strng{namehash}{588b5ddb85f96def322bde04e9dc8598}
+      \strng{fullhash}{588b5ddb85f96def322bde04e9dc8598}
+      \strng{bibnamehash}{588b5ddb85f96def322bde04e9dc8598}
+      \strng{authorbibnamehash}{588b5ddb85f96def322bde04e9dc8598}
+      \strng{authornamehash}{588b5ddb85f96def322bde04e9dc8598}
+      \strng{authorfullhash}{588b5ddb85f96def322bde04e9dc8598}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Offizielle Internetseite des Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz - BMUV}
+      \field{langid}{ngerman}
+      \field{title}{Feinstaub}
+      \field{urlday}{28}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\simon\Zotero\storage\I9SYVU9C\feinstaub.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bmuv.de/WS538
+      \endverb
+      \verb{url}
+      \verb https://www.bmuv.de/WS538
+      \endverb
+    \endentry
+    \entry{FeinstaubPM2}{online}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeltitlesource}{title}
+      \field{langid}{ngerman}
+      \field{title}{Feinstaub - PM2,5}
+      \field{urlday}{28}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\simon\Zotero\storage\JKDQBGY6\pm25.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.umweltbundesamt.at/umweltthemen/luft/luftschadstoffe/staub/pm25
+      \endverb
+      \verb{url}
+      \verb https://www.umweltbundesamt.at/umweltthemen/luft/luftschadstoffe/staub/pm25
+      \endverb
+    \endentry
+    \entry{LinearRegressionVs}{online}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{title}{Linear {{Regression}} vs {{LSTM}} for {{Time Series Data}} | {{IEEE Conference Publication}} | {{IEEE Xplore}}}
+      \field{urlday}{26}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\simon\Zotero\storage\HC73NGRV\9848887.html
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/9848887
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/9848887
+      \endverb
+    \endentry
+    \entry{tanRegressionAnalysisPrediction2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4ff06eee5052c8d9d2b50ebfa907b142}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Fangbi},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{4ff06eee5052c8d9d2b50ebfa907b142}
+      \strng{fullhash}{4ff06eee5052c8d9d2b50ebfa907b142}
+      \strng{bibnamehash}{4ff06eee5052c8d9d2b50ebfa907b142}
+      \strng{authorbibnamehash}{4ff06eee5052c8d9d2b50ebfa907b142}
+      \strng{authornamehash}{4ff06eee5052c8d9d2b50ebfa907b142}
+      \strng{authorfullhash}{4ff06eee5052c8d9d2b50ebfa907b142}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, the LSTM model in deep learning is applied to regression analysis, and the LSTM model is used to solve the problems of nonlinearity and data interdependence in regression analysis, so as to improve the traditional regression analysis model. Through the actual modeling application experiment, on the one hand, the prediction accuracy of different model parameters is compared and analyzed, on the other hand, the effectiveness and practicability of LSTM model in multiple regression analysis and prediction are confirmed.}
+      \field{issn}{1742-6596}
+      \field{journaltitle}{Journal of Physics: Conference Series}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{1}
+      \field{shortjournal}{J. Phys.: Conf. Ser.}
+      \field{title}{Regression Analysis and Prediction Using {{LSTM}} Model and Machine Learning Methods}
+      \field{urlday}{26}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{1982}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{012013}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1742-6596/1982/1/012013
+      \endverb
+      \verb{file}
+      \verb C:\Users\simon\Zotero\storage\Y3KXEABW\Tan_2021_Regression analysis and prediction using LSTM model and machine learning methods.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1088/1742-6596/1982/1/012013
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1088/1742-6596/1982/1/012013
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/691234595217374598/2c594522be1e4a7db1b80bcf98d366be/artifacts
+end_time: 1716761040981
+entry_point_name: ''
+experiment_id: '691234595217374598'
+lifecycle_stage: active
+run_id: 2c594522be1e4a7db1b80bcf98d366be
+run_name: calm-crab-263
+run_uuid: 2c594522be1e4a7db1b80bcf98d366be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716760985310
+status: 3
+tags: []
+user_id: simon

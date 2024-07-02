@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/895750199437950388/d84588425c0643f89f7f3e5b87796e8b/artifacts
+end_time: 1716641465415
+entry_point_name: ''
+experiment_id: '895750199437950388'
+lifecycle_stage: active
+run_id: d84588425c0643f89f7f3e5b87796e8b
+run_name: clean-donkey-908
+run_uuid: d84588425c0643f89f7f3e5b87796e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716641430899
+status: 3
+tags: []
+user_id: simon

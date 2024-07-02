@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/691234595217374598/c28884057cdd4c25b3393d91daf41317/artifacts
+end_time: 1716760539618
+entry_point_name: ''
+experiment_id: '691234595217374598'
+lifecycle_stage: active
+run_id: c28884057cdd4c25b3393d91daf41317
+run_name: gaudy-dog-455
+run_uuid: c28884057cdd4c25b3393d91daf41317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716760355330
+status: 3
+tags: []
+user_id: simon

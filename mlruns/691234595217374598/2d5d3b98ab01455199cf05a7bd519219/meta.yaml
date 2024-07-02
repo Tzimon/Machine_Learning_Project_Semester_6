@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/691234595217374598/2d5d3b98ab01455199cf05a7bd519219/artifacts
+end_time: 1716760355262
+entry_point_name: ''
+experiment_id: '691234595217374598'
+lifecycle_stage: active
+run_id: 2d5d3b98ab01455199cf05a7bd519219
+run_name: shivering-koi-148
+run_uuid: 2d5d3b98ab01455199cf05a7bd519219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716760045789
+status: 3
+tags: []
+user_id: simon

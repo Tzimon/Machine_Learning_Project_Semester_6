@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/895750199437950388/d70c754817fd42bba5b461f74f187f1f/artifacts
+end_time: 1716641399777
+entry_point_name: ''
+experiment_id: '895750199437950388'
+lifecycle_stage: active
+run_id: d70c754817fd42bba5b461f74f187f1f
+run_name: rare-shoat-398
+run_uuid: d70c754817fd42bba5b461f74f187f1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716641370061
+status: 3
+tags: []
+user_id: simon

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/691234595217374598/78018f9e0c874f2eae3db9bf6c3f2aad/artifacts
+end_time: 1716760657748
+entry_point_name: ''
+experiment_id: '691234595217374598'
+lifecycle_stage: active
+run_id: 78018f9e0c874f2eae3db9bf6c3f2aad
+run_name: colorful-hare-205
+run_uuid: 78018f9e0c874f2eae3db9bf6c3f2aad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716760539692
+status: 3
+tags: []
+user_id: simon

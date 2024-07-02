@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/808861854338947306/94b1c29c94d14b11ae21ad57b00874bf/artifacts
+end_time: 1716633189298
+entry_point_name: ''
+experiment_id: '808861854338947306'
+lifecycle_stage: active
+run_id: 94b1c29c94d14b11ae21ad57b00874bf
+run_name: skittish-tern-608
+run_uuid: 94b1c29c94d14b11ae21ad57b00874bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716633122762
+status: 3
+tags: []
+user_id: simon

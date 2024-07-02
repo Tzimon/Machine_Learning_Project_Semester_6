@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/808861854338947306/41a462ad441e458d8389a56989cce00e/artifacts
+end_time: 1716633415558
+entry_point_name: ''
+experiment_id: '808861854338947306'
+lifecycle_stage: active
+run_id: 41a462ad441e458d8389a56989cce00e
+run_name: sneaky-moose-790
+run_uuid: 41a462ad441e458d8389a56989cce00e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716633338720
+status: 3
+tags: []
+user_id: simon

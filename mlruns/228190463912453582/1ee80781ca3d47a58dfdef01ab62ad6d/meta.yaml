@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/228190463912453582/1ee80781ca3d47a58dfdef01ab62ad6d/artifacts
+end_time: 1716641215328
+entry_point_name: ''
+experiment_id: '228190463912453582'
+lifecycle_stage: active
+run_id: 1ee80781ca3d47a58dfdef01ab62ad6d
+run_name: clumsy-goose-698
+run_uuid: 1ee80781ca3d47a58dfdef01ab62ad6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716641186217
+status: 3
+tags: []
+user_id: simon

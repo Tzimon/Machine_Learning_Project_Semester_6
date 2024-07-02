@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/691234595217374598/297c63f3139a456c924e12ef35c6f326/artifacts
+end_time: 1716756528595
+entry_point_name: ''
+experiment_id: '691234595217374598'
+lifecycle_stage: active
+run_id: 297c63f3139a456c924e12ef35c6f326
+run_name: chill-ox-867
+run_uuid: 297c63f3139a456c924e12ef35c6f326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716753074627
+status: 3
+tags: []
+user_id: simon

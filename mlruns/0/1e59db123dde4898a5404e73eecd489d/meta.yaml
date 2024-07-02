@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1e59db123dde4898a5404e73eecd489d/artifacts
+deleted_time: 1716629854744
+end_time: 1716629768489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1e59db123dde4898a5404e73eecd489d
+run_name: adorable-ram-700
+run_uuid: 1e59db123dde4898a5404e73eecd489d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716629694207
+status: 4
+tags: []
+user_id: simon

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/309058386637993608/1157b0513a9140a18a77f37a6095b4bf/artifacts
+end_time: 1716640779761
+entry_point_name: ''
+experiment_id: '309058386637993608'
+lifecycle_stage: active
+run_id: 1157b0513a9140a18a77f37a6095b4bf
+run_name: useful-shoat-835
+run_uuid: 1157b0513a9140a18a77f37a6095b4bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716640745882
+status: 3
+tags: []
+user_id: simon

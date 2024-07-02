@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129201002934779523/758fa0739b0b489e9edf253b5482d8b5/artifacts
+end_time: 1716736989718
+entry_point_name: ''
+experiment_id: '129201002934779523'
+lifecycle_stage: active
+run_id: 758fa0739b0b489e9edf253b5482d8b5
+run_name: exultant-fish-185
+run_uuid: 758fa0739b0b489e9edf253b5482d8b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716736922961
+status: 3
+tags: []
+user_id: simon

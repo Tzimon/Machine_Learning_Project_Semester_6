@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/691234595217374598/a1a0fee1a4ce4632af73ea7e483d8214/artifacts
+end_time: 1716760834810
+entry_point_name: ''
+experiment_id: '691234595217374598'
+lifecycle_stage: active
+run_id: a1a0fee1a4ce4632af73ea7e483d8214
+run_name: auspicious-pug-885
+run_uuid: a1a0fee1a4ce4632af73ea7e483d8214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716760753059
+status: 3
+tags: []
+user_id: simon

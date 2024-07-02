@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a9dfa71e6aa04a5996e44996c8b89b1a/artifacts
+end_time: 1716630362567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9dfa71e6aa04a5996e44996c8b89b1a
+run_name: peaceful-pig-690
+run_uuid: a9dfa71e6aa04a5996e44996c8b89b1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716630254804
+status: 3
+tags: []
+user_id: simon

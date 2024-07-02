@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/808861854338947306/ff1e1f013db943fdb04121ecb0c72eaf/artifacts
+end_time: 1716633794953
+entry_point_name: ''
+experiment_id: '808861854338947306'
+lifecycle_stage: active
+run_id: ff1e1f013db943fdb04121ecb0c72eaf
+run_name: tasteful-robin-292
+run_uuid: ff1e1f013db943fdb04121ecb0c72eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716633686910
+status: 3
+tags: []
+user_id: simon

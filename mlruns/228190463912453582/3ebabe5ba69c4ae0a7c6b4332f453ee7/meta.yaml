@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/228190463912453582/3ebabe5ba69c4ae0a7c6b4332f453ee7/artifacts
+end_time: 1716641157505
+entry_point_name: ''
+experiment_id: '228190463912453582'
+lifecycle_stage: active
+run_id: 3ebabe5ba69c4ae0a7c6b4332f453ee7
+run_name: brawny-bee-187
+run_uuid: 3ebabe5ba69c4ae0a7c6b4332f453ee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716641131226
+status: 3
+tags: []
+user_id: simon

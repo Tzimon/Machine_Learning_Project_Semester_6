@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/891988973298426473/58950eee43e54b30946897edf8da5a41/artifacts
+deleted_time: 1716710267233
+end_time: 1716710216131
+entry_point_name: ''
+experiment_id: '891988973298426473'
+lifecycle_stage: deleted
+run_id: 58950eee43e54b30946897edf8da5a41
+run_name: amazing-sloth-827
+run_uuid: 58950eee43e54b30946897edf8da5a41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716709994074
+status: 4
+tags: []
+user_id: simon

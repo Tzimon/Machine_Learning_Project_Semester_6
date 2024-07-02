@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/129201002934779523/90ceac28fd7b49028bb82791fbb4e1fd/artifacts
+end_time: 1716736349472
+entry_point_name: ''
+experiment_id: '129201002934779523'
+lifecycle_stage: active
+run_id: 90ceac28fd7b49028bb82791fbb4e1fd
+run_name: glamorous-shrimp-212
+run_uuid: 90ceac28fd7b49028bb82791fbb4e1fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716736038417
+status: 3
+tags: []
+user_id: simon
